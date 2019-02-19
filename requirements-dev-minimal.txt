@@ -5,3 +5,4 @@ ipython
 pre-commit
 pytest
 requirements-tools
+tox-pip-extensions
