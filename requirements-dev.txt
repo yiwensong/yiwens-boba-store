@@ -35,7 +35,7 @@ pyparsing==2.4.6
 pytest==5.3.5
 PyYAML==5.3
 requirements-tools==1.2.1
-setuptools==45.2.0
+setuptools==65.5.1
 six==1.14.0
 toml==0.10.0
 tox==3.14.5
